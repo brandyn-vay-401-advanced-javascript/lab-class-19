@@ -2,7 +2,7 @@
 
 const io = require('socket.io-client');
 
-const socket = io.connect('http://172.16.0.231:3000');
+const socket = io.connect('http://localhost:3000');
 
 const faker = require('faker');
 
