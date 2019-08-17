@@ -1,11 +1,11 @@
-# LAB - 
+# LAB - 19
 
-## Project Name
+## AWS Socket Server
 
-### Author: Student/Group Name
+### Author: Brandyn Vay
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/brandyn-vay-401-advanced-javascript/lab-class-19)
 * [back-end(AWS)](http://socketserver-env.h4y5tx6t6s.us-east-2.elasticbeanstalk.com/)
 
 #### Running the app
